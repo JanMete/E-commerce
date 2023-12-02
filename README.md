@@ -1,4 +1,5 @@
-E-commerce App
+E-commerce App. There is no RWD styling!
+
 I think this is the most important project in my repository. Here I was able to use local API and test fetching/deleting data using react-router. Here I practiced usage of: 
 - How to create and use loaders
 - useLoaderData
