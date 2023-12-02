@@ -1,14 +1,14 @@
 E-commerce App
 I think this is the most important project in my repository. Here I was able to use local API and test fetching/deleting data using react-router. Here I practiced usage of: 
 -How to create and use loaders
-- useLoaderData
+-useLoaderData
 -useParams
 -Local Storage
 -How to load min/page of products from API
 -How to gather information on how many products I will receive from the response (for pagination)
 -useContext with Outlet component
 -How to create paths, nested paths,  redirect
-- Form , Link and NavLink components
+-Form , Link and NavLink components
 -Views
 -Layout
 
